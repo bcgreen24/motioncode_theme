@@ -29,12 +29,12 @@ header#header {
   padding: 0px;
 }
 div#page {
-  background-color: #ffffff;
+  background-color: #e7f5ec;
   border: solid 4px #fff;
 }
 div#content {
   min-height: 600px;
-  background-color: #f9fdfa;
+  background-color: #9ed8b1;
 }
 footer#footer {
   background-color: #46b06a;
