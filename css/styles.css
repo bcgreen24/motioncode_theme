@@ -101,7 +101,7 @@ div.field-items {
 }
 /* Node Gallery Navigator */
 #node-gallery-item-navigator {
-  font-size: .7px;
+  font-size: .7em;
 }
 #main-menu a.active-trail {
   color: #f89406;
