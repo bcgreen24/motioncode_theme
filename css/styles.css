@@ -21,7 +21,7 @@
   font-family: 'Lato', sans-serif;
 }
 body.page-node {
-  background-color: #335588;
+  background-color: #225533;
 }
 header#header {
   height: 125px;
@@ -37,7 +37,7 @@ div#content {
   background-color: #ffffff;
 }
 footer#footer {
-  background-color: #7194ca;
+  background-color: #46b06a;
   color: #fff;
   height: 125px;
   padding: 5px;
@@ -47,7 +47,7 @@ a {
   text-decoration: none;
 }
 div#navigation {
-  background-color: #4a5a71;
+  background-color: #314638;
   padding-top: 10px;
 }
 .region-sidebar-first {
