@@ -21,7 +21,7 @@
   font-family: 'Lato', sans-serif;
 }
 body.page-node {
-  background-color: #000000;
+  background-color: #335588;
 }
 header#header {
   height: 125px;
@@ -29,14 +29,14 @@ header#header {
   padding: 0px;
 }
 div#page {
-  background-color: #f2f2f2;
+  background-color: #ffffff;
 }
 div#content {
   min-height: 600px;
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 footer#footer {
-  background-color: #404040;
+  background-color: #7194ca;
   color: #fff;
   height: 125px;
   padding: 5px;
@@ -46,7 +46,7 @@ a {
   text-decoration: none;
 }
 div#navigation {
-  background-color: #404040;
+  background-color: #7194ca;
   padding-top: 10px;
 }
 .region-sidebar-first {
