@@ -1,3 +1,8 @@
+@import "normalize.css";
+@import "layouts/responsive.css";
+@import "components/misc.css";
+@import "print.css";
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 /**
  * @file
  * Styles are organized using the SMACSS technique. @see http://smacss.com/book/
@@ -5,125 +10,93 @@
  * When you turn on CSS aggregation at admin/config/development/performance, all
  * of these @include files will be combined into a single file.
  */
-
 /* HTML element (SMACSS base) rules */
-@import "normalize.css";
-
 /* Layout rules */
-@import "layouts/responsive.css";
-
 /* Component (SMACSS module) rules */
-@import "components/misc.css";
 /* Optionally, add your own components here. */
-@import "print.css";
-
 /* SMACSS theme rules */
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
-
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 * {
-    font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
-
-
 body.page-node {
-    background-color: #000;
+  background-color: #000000;
 }
-
-header#header{
-    height: 125px;
-    background-image: url('../images/mc_bkgd.png');
-    padding: 0px;
+header#header {
+  height: 125px;
+  background-image: url('../images/mc_bkgd.png');
+  padding: 0px;
 }
-
-div#page{
-    background-color: #fff;
+div#page {
+  background-color: #fff;
 }
-
-div#content{
-    min-height:600px;
-    background-color: #eee;
+div#content {
+  min-height: 600px;
+  background-color: #eee;
 }
-
-footer#footer{
-    background-color: #333;
-    color: #fff;
-    height: 125px;
-    padding: 5px;
-    font-size: 12px;
+footer#footer {
+  background-color: #000000;
+  color: #fff;
+  height: 125px;
+  padding: 5px;
+  font-size: 12px;
 }
-
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
-
-div#navigation{
-    background-color: #333;
-    padding-top: 10px;
+div#navigation {
+  background-color: #000000;
+  padding-top: 10px;
 }
-
-.region-sidebar-first{
-    padding-top: 10px;
+.region-sidebar-first {
+  padding-top: 10px;
 }
-
-#main-menu li{
-    margin-right: 10px;
+#main-menu li {
+  margin-right: 10px;
 }
-
 #main-menu a {
-    color: #fff;
-    outline: 0;
+  color: #fff;
+  outline: 0;
 }
-
-#main-menu a:hover{
-    color: #f89406;
+#main-menu a:hover {
+  color: #f89406;
 }
-
 header a {
-    color: white;
-    size: 10px;
+  color: white;
+  size: 10px;
 }
-
-header a:hover{
-    color: #f89406;
+header a:hover {
+  color: #f89406;
 }
-
-.block-title{
-    padding: 2px;
-    font-size: .8em;
-    border: dotted gray 1px;
+.block-title {
+  padding: 2px;
+  font-size: .8em;
+  border: dotted gray 1px;
 }
-
-#secondary-menu{
-    padding: 2px;
-    border: dotted white 1px;
-    margin: 5px;
-    text-size: .8em;
+#secondary-menu {
+  padding: 2px;
+  border: dotted white 1px;
+  margin: 5px;
+  text-size: .8em;
 }
-
-#search-block-form{
-    float: right;
-    margin-right: 5px;
+#search-block-form {
+  float: right;
+  margin-right: 5px;
 }
-
-h2.node-title a{
-    color: black;
-    font-size: .7em;
+h2.node-title a {
+  color: black;
+  font-size: .7em;
 }
-
-nav#main-menu{
-    border: 0px;
-    outline: 0;
+nav#main-menu {
+  border: 0px;
+  outline: 0;
 }
-
 /* Node Gallery Thumbnail View */
-div.field-items{
-    margin: 15px;
-    margin-top: 4px;
+div.field-items {
+  margin: 15px;
+  margin-top: 4px;
 }
-
-#main-menu a.active-trail{
-    color: #f89406;
+#main-menu a.active-trail {
+  color: #f89406;
 }
-
