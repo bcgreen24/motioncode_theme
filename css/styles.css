@@ -110,3 +110,6 @@ div.field-items {
 #main-menu a.active-trail {
   color: #f89406;
 }
+a.username {
+  color: black;
+}
