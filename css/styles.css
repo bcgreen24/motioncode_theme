@@ -30,7 +30,7 @@ header#header {
 }
 div#page {
   background-color: #ffffff;
-  border: solid 1px #fff;
+  border: solid 4px #fff;
 }
 div#content {
   min-height: 600px;
