@@ -99,6 +99,10 @@ div.field-items {
   margin: 15px;
   margin-top: 4px;
 }
+/* Node Gallery Navigator */
+#node-gallery-item-navigator {
+  font-size: .7px;
+}
 #main-menu a.active-trail {
   color: #f89406;
 }
