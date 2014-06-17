@@ -103,6 +103,10 @@ div.field-items {
 #node-gallery-item-navigator {
   font-size: .7em;
 }
+#node-gallery-item-navigator td {
+  padding-left: 10px;
+  padding-right: 10px;
+}
 #main-menu a.active-trail {
   color: #f89406;
 }
