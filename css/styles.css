@@ -1,0 +1,124 @@
+/**
+ * @file
+ * Styles are organized using the SMACSS technique. @see http://smacss.com/book/
+ *
+ * When you turn on CSS aggregation at admin/config/development/performance, all
+ * of these @include files will be combined into a single file.
+ */
+
+/* HTML element (SMACSS base) rules */
+@import "normalize.css";
+
+/* Layout rules */
+@import "layouts/responsive.css";
+
+/* Component (SMACSS module) rules */
+@import "components/misc.css";
+/* Optionally, add your own components here. */
+@import "print.css";
+
+/* SMACSS theme rules */
+/* @import "theme-A.css"; */
+/* @import "theme-B.css"; */
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+
+body.page-node {
+    background-color: #000;
+}
+
+header#header{
+    height: 125px;
+    background-image: url('../images/mc_bkgd.png');
+    padding: 0px;
+}
+
+div#page{
+    background-color: #fff;
+}
+
+div#content{
+    min-height:600px;
+    background-color: #eee;
+}
+
+footer#footer{
+    background-color: #333;
+    color: #fff;
+    height: 125px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+div#navigation{
+    background-color: #333;
+    padding-top: 10px;
+}
+
+.region-sidebar-first{
+    padding-top: 10px;
+}
+
+#main-menu li{
+    margin-right: 10px;
+}
+
+#main-menu a {
+    color: #fff;
+    outline: 0;
+}
+
+#main-menu a:hover{
+    color: #f89406;
+}
+
+header a {
+    color: white;
+    size: 10px;
+}
+
+header a:hover{
+    color: #f89406;
+}
+
+.block-title{
+    padding: 2px;
+    font-size: .8em;
+    border: dotted gray 1px;
+}
+
+#secondary-menu{
+    padding: 2px;
+    border: dotted white 1px;
+    margin: 5px;
+    text-size: .8em;
+}
+
+#search-block-form{
+    float: right;
+    margin-right: 5px;
+}
+
+h2.node-title a{
+    color: black;
+    font-size: .7em;
+}
+
+nav#main-menu{
+    border: 0px;
+    outline: 0;
+}
+
+/* Node Gallery Thumbnail View */
+div.field-items{
+    margin: 15px;
+    margin-top: 4px;
+}
