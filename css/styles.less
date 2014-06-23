@@ -27,7 +27,7 @@
 }
 
 @hilite: #f89406;
-@body-bkgd: #358;
+@body-bkgd: #253;
 
 body.page-node {
   background-color: @body-bkgd;
@@ -40,13 +40,15 @@ header#header{
 }
 
 div#page{
-  background-color: lighten(@body-bkgd, 95%);
+  background-color: lighten(@body-bkgd, 50%);
+  border: solid 4px #fff;
 }
 
 div#content{
   min-height:600px;
-  background-color: lighten(@body-bkgd, 80%);
+  background-color: lighten(@body-bkgd, 70%);
 }
+
 
 footer#footer{
   background-color: lighten(@body-bkgd, 25%);
@@ -106,7 +108,8 @@ header a:hover{
 
 #search-block-form{
   float: right;
-  margin-right: 5px;
+  margin-right: 20px;
+  margin-top: 40px;
 }
 
 h2.node-title a{
@@ -125,6 +128,25 @@ div.field-items{
   margin-top: 4px;
 }
 
+/* Node Gallery Navigator */
+#node-gallery-item-navigator{
+  font-size: .7em;
+}
+
+#node-gallery-item-navigator td{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 #main-menu a.active-trail{
   color: @hilite;
+}
+
+a.username{
+  color: desaturate(@body-bkgd, 25%);
+
+}
+
+body{
+  background-color: @body-bkgd;
 }
