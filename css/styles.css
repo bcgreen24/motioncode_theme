@@ -127,7 +127,8 @@ div#navigation > ul.nice-menu li{
 div#navigation > ul.nice-menu a{
     color:#fff;
 }
-ul.nice-menu-main-menu > li{
+ul.nice-menu-main-menu > li,
+ul.nice-menu-main-menu > li.menuparent{
     margin-top: -10px;
     height:48px;
     padding-left:5px;
@@ -159,7 +160,7 @@ ul.nice-menu-main-menu > li.active-trail{
     background-color: #000;
 }
 ul.nice-menu-main-menu > li.active-trail a{
-    margin-top:5px;
+    margin-top:3px;
 }
 
 ul.nice-menu-main-menu > li.active-trail:hover{
