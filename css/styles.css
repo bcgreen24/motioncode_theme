@@ -119,3 +119,8 @@ a.username {
 body {
   background-color: #225533;
 }
+ul.nice-menu li{
+    background-color: none;
+    color: #fff;
+    border: none;
+}
