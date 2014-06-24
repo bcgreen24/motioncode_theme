@@ -128,7 +128,8 @@ div#navigation > ul.nice-menu a{
     color:#fff;
 }
 ul.nice-menu-main-menu > li,
-ul.nice-menu-main-menu > li.menuparent{
+ul.nice-menu-main-menu > li.menuparent,
+ul.nice-menu-main-menu > li.menuparent:hover{
     margin-top: -10px;
     height:48px;
     padding-left:5px;
