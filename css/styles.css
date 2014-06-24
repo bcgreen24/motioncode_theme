@@ -133,6 +133,7 @@ ul.nice-menu-main-menu > li{
     padding-left:5px;
     padding-right:5px;
     background-color: #314638;
+    border:none;
 }
 
 ul.nice-menu-main-menu > li a{
