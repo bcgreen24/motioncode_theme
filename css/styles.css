@@ -127,3 +127,7 @@ div#navigation > ul.nice-menu li{
 div#navigation > ul.nice-menu a{
     color:#fff;
 }
+ul.nice-menu-main-menu > li{
+    height:46px;
+    margin-top:-10px;
+}
