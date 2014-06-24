@@ -145,6 +145,13 @@ ul.nice-menu-main-menu > li ul{
     margin-top:18px;
 }
 
+ul.nice-menu-main-menu > li ul li{
+    background-color:  black;
+}
+
+ul.nice-menu-main-menu > li ul li a{
+    color: #fff;
+}
 ul.nice-menu-main-menu > li.active-trail{
     background-color: #000;
 }
