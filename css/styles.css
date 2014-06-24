@@ -148,3 +148,6 @@ ul.nice-menu-main-menu > li ul{
 ul.nice-menu-main-menu > li.active-trail{
     background-color: #000;
 }
+ul.nice-menu-main-menu > li.active-trail a{
+    margin-top:5px;
+}
