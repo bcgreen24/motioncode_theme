@@ -145,7 +145,6 @@ ul.nice-menu-main-menu > li ul{
     margin-top:18px;
 }
 
-ul.nice-menu-main-menu > li.active-trail,
-ul.nice-menu-main-menu > li.active-trail.over{
+ul.nice-menu-main-menu > li.active-trail{
     background-color: #000;
 }
