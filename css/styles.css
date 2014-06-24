@@ -129,5 +129,10 @@ div#navigation > ul.nice-menu a{
 }
 ul.nice-menu-main-menu > li{
     height:46px;
-    margin-top:-10px;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+ul.nice-menu-main-menu > li a{
+    color: white;
 }
