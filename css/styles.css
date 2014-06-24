@@ -151,3 +151,7 @@ ul.nice-menu-main-menu > li.active-trail{
 ul.nice-menu-main-menu > li.active-trail a{
     margin-top:5px;
 }
+
+ul.nice-menu-main-menu > li.active-trail:hover{
+    background-color: #000;
+}
