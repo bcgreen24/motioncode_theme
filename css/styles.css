@@ -120,7 +120,7 @@ body {
   background-color: #225533;
 }
 ul.nice-menu li{
-    background-color: none;
+    background-color: transparent;
     color: #fff;
     border: none;
 }
