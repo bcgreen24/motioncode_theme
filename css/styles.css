@@ -147,9 +147,11 @@ ul.nice-menu-main-menu > li ul{
 
 ul.nice-menu-main-menu > li ul li{
     background-color:  black;
-    border:none;
 }
 
+ul.nice-menu-main-menu > li ul{
+    border: none;
+}
 ul.nice-menu-main-menu > li ul li a{
     color: #fff;
 }
