@@ -32,6 +32,9 @@ div#page {
   background-color: #9ed8b1;
   border: solid 4px #fff;
 }
+div#main{
+    background-color:#46B06A;
+}
 div#content {
   min-height: 600px;
   background-color: #e7f5ec;
