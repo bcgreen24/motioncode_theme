@@ -4,6 +4,7 @@
 @import "print.css";
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Unica+One);
 /**
  * @file
  * Styles are organized using the SMACSS technique. @see http://smacss.com/book/
@@ -19,7 +20,7 @@
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
 * {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Unica One', sans-serif;
 }
 body.page-node {
   background-color: #225533;
