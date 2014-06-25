@@ -19,6 +19,9 @@
 /* SMACSS theme rules */
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
+body{
+    background-image: url('../images/mc_body.png');
+}
 * {
   font-family: 'Unica One', sans-serif;
 }

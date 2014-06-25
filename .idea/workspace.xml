@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c439e0ba-82d3-46c4-8d98-790772ed47d5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motioncode_theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +38,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="129" column="1" selection-start="2369" selection-end="2369" vertical-scroll-proportion="0.9368421" vertical-offset="1490" max-vertical-offset="3075">
+            <state line="21" column="5" selection-start="781" selection-end="781" vertical-scroll-proportion="0.56842107" vertical-offset="45" max-vertical-offset="3120">
               <folding />
             </state>
           </provider>
@@ -113,7 +114,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,6 +162,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +187,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="569" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Motioncode" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -415,6 +416,34 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/styles.less">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="47" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="2370">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="1" selection-start="2369" selection-end="2369" vertical-scroll-proportion="0.0" vertical-offset="1935" max-vertical-offset="3075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/page.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="1831" selection-end="1831" vertical-scroll-proportion="0.0" vertical-offset="840" max-vertical-offset="1830">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/node.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="21" selection-start="845" selection-end="847" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.less">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="47" selection-start="482" selection-end="482" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2370">
           <folding />
         </state>
@@ -600,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="129" column="1" selection-start="2369" selection-end="2369" vertical-scroll-proportion="0.9368421" vertical-offset="1490" max-vertical-offset="3075">
+        <state line="21" column="5" selection-start="781" selection-end="781" vertical-scroll-proportion="0.56842107" vertical-offset="45" max-vertical-offset="3120">
           <folding />
         </state>
       </provider>
