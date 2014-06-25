@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c439e0ba-82d3-46c4-8d98-790772ed47d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mc_body.png" afterPath="$PROJECT_DIR$/images/mc_body.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
     </list>
     <ignored path="motioncode_theme.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="32" selection-start="866" selection-end="866" vertical-scroll-proportion="0.6315789" vertical-offset="45" max-vertical-offset="3135">
+            <state line="25" column="23" selection-start="912" selection-end="912" vertical-scroll-proportion="0.69473684" vertical-offset="45" max-vertical-offset="3165">
               <folding />
             </state>
           </provider>
@@ -629,7 +628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="32" selection-start="866" selection-end="866" vertical-scroll-proportion="0.6315789" vertical-offset="45" max-vertical-offset="3135">
+        <state line="25" column="23" selection-start="912" selection-end="912" vertical-scroll-proportion="0.69473684" vertical-offset="45" max-vertical-offset="3165">
           <folding />
         </state>
       </provider>
