@@ -21,6 +21,7 @@
 /* @import "theme-B.css"; */
 body{
     background-image: url('../images/mc_body.png');
+    background-attachment: fixed;
 }
 * {
   font-family: 'Unica One', sans-serif;

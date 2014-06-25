@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c439e0ba-82d3-46c4-8d98-790772ed47d5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/mc_body.png" afterPath="$PROJECT_DIR$/images/mc_body.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="motioncode_theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +38,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="781" selection-end="781" vertical-scroll-proportion="0.56842107" vertical-offset="45" max-vertical-offset="3120">
+            <state line="23" column="32" selection-start="866" selection-end="866" vertical-scroll-proportion="0.6315789" vertical-offset="45" max-vertical-offset="3135">
               <folding />
             </state>
           </provider>
@@ -629,7 +629,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="781" selection-end="781" vertical-scroll-proportion="0.56842107" vertical-offset="45" max-vertical-offset="3120">
+        <state line="23" column="32" selection-start="866" selection-end="866" vertical-scroll-proportion="0.6315789" vertical-offset="45" max-vertical-offset="3135">
           <folding />
         </state>
       </provider>
