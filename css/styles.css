@@ -56,6 +56,9 @@ div#navigation {
   background-color: #314638;
   padding-top: 10px;
 }
+#navigation{
+    height:48px;
+}
 .region-sidebar-first {
   padding-top: 10px;
 }
@@ -87,6 +90,16 @@ header a:hover {
   margin: 5px;
   text-size: 1em;
 }
+
+/*sidebar menu*/
+ul#nice-menu-2{
+    width:200px;
+}
+ul#nice-menu-2 > li{
+    width:200px;
+}
+
+
 #search-block-form {
   float: right;
   margin-right: 20px;
