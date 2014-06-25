@@ -121,6 +121,13 @@ nav#main-menu {
   border: 0px;
   outline: 0;
 }
+ul#nice-menu-1 > li:hover{
+    background-color: black;
+}
+
+ul#nice-menu-1 > li > ul{
+    margin-top:12px;
+}
 /* Node Gallery Thumbnail View */
 div.field-items {
   margin: 15px;
