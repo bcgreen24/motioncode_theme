@@ -77,14 +77,14 @@ header a:hover {
 }
 .block-title {
   padding: 2px;
-  font-size: .8em;
+  font-size: 1em;
   border: dotted white 1px;
 }
 #secondary-menu {
   padding: 2px;
   border: dotted white 1px;
   margin: 5px;
-  text-size: .8em;
+  text-size: 1em;
 }
 #search-block-form {
   float: right;
@@ -93,7 +93,7 @@ header a:hover {
 }
 h2.node-title a {
   color: black;
-  font-size: .7em;
+  font-size: .9em;
 }
 nav#main-menu {
   border: 0px;
@@ -106,7 +106,7 @@ div.field-items {
 }
 /* Node Gallery Navigator */
 #node-gallery-item-navigator {
-  font-size: .7em;
+  font-size: 1em;
 }
 #node-gallery-item-navigator td {
   padding-left: 10px;
