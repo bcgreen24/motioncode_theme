@@ -98,7 +98,15 @@ ul#nice-menu-2{
 ul#nice-menu-2 > li{
     width:200px;
 }
+ul#nice-menu-2 > li > ul{
+    width:180px;
+    margin-left:-20px;
+}
 
+ul#nice-menu-2 > li > ul > li{
+    width:180px;
+    margin-left:-20px;
+}
 
 #search-block-form {
   float: right;
