@@ -1,9 +1,11 @@
 #!/usr/bin/expect
 
 set timeout 5
-
+expect "$ "
 send "git add .\r"
-send  "git commit -m \"no message\"\r"
+expect "$ "
+send  "git commit -m 'no message'\r"
+expect "$ "
 send  "git push --all\r"
 
 
