@@ -1,0 +1,11 @@
+#!/usr/bin/expect
+
+set timeout 5
+
+spawn git add .
+spawn git commit -m 'no message'
+spawn git push --all
+
+
+expect "Username for 'https://github.com':" { send "bcgreen24\r" }
+expect "Password for 'https://bcgreen24@github.com':" { send "jupiter4\r" }

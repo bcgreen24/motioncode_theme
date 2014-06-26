@@ -103,19 +103,21 @@ header a:hover {
 
 /*sidebar menu*/
 ul#nice-menu-2{
-    width:200px;
+    width:175px;
 }
 ul#nice-menu-2 > li{
-    width:200px;
+    width:175px;
 }
 ul#nice-menu-2 > li > ul{
-    width:180px;
-    margin-left:-20px;
+    width:175px;
+    margin-left:-13px;
+    margin-top:-1px;
 }
 
 ul#nice-menu-2 > li > ul > li{
-    width:180px;
-    margin-left:-20px;
+    width:175px;
+    margin-left:-13px;
+
 }
 
 #search-block-form {
