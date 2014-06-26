@@ -211,3 +211,24 @@ ul.nice-menu-main-menu > li.active-trail a{
 ul.nice-menu-main-menu > li.active-trail:hover{
     background-color: #000;
 }
+
+/*Node Gallery Manage Items Form */
+table#upload-attachments > thead > tr > th{
+    font-size:.6em;
+}
+
+div.form-item > label{
+    font-size: .6em;
+}
+div.form-wrapper{
+    width:400px;
+}
+input.form-text{
+    width:400px;
+}
+table.sticky-header > thead > tr > th{
+    font-size: .6em;
+}
+table.sticky-header{
+    width: 700px;
+}
