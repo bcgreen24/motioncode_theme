@@ -104,6 +104,7 @@ header a:hover {
 /*sidebar menu*/
 ul#nice-menu-2{
     width:175px;
+    margin-top: -10px;
 }
 ul#nice-menu-2 > li{
     width:175px;
