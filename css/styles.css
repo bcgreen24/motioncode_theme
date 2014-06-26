@@ -40,12 +40,16 @@ header#header {
 div#page {
   background-color: #9ed8b1;
   border: solid 4px #fff;
+    width: 960px;
 }
 div#main{
     background-color:#4F930E;
+    padding-right: 8px;
+    padding-bottom: 8px;
 }
 div#content {
   min-height: 600px;
+  width: 759px;
   background-color: #e7f5ec;
 }
 footer#footer {
