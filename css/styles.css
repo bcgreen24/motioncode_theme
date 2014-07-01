@@ -171,6 +171,10 @@ div#navigation > ul.nice-menu li{
 div#navigation > ul.nice-menu a{
     color:#fff;
 }
+
+#navigation.block{
+    z-index: 9999;
+}
 ul.nice-menu-main-menu > li,
 ul.nice-menu-main-menu > li.menuparent,
 ul.nice-menu-main-menu > li.menuparent:hover{
