@@ -34,7 +34,7 @@ body.page-node {
 }
 header#header {
   height: 125px;
-  background-image: url('../images/mc_bkgd.png');
+  background-image: url('../images/mc_header.png');
   padding: 0px;
 }
 div#page {
@@ -211,7 +211,9 @@ ul.nice-menu-main-menu > li.active-trail a{
 ul.nice-menu-main-menu > li.active-trail:hover{
     background-color: #000;
 }
-
+ul#nice-menu-1 > li{
+    margin-right:16px;
+}
 /*Node Gallery Manage Items Form */
 table#upload-attachments > thead > tr > th{
     font-size:.6em;
@@ -231,4 +233,11 @@ table.sticky-header > thead > tr > th{
 }
 table.sticky-header{
     width: 700px;
+}
+
+/* Error Reporting */
+ul.messages__list > li,
+ul.messages__list > li > em.placeholder{
+    font-family: sans-serif;
+    font-size:12px;
 }
