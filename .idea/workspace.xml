@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c439e0ba-82d3-46c4-8d98-790772ed47d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c439e0ba-82d3-46c4-8d98-790772ed47d5" name="Default" comment="" />
     <ignored path="motioncode_theme.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +35,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="44" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.65352696" vertical-offset="225" max-vertical-offset="3720">
+            <state line="29" column="1" selection-start="960" selection-end="960" vertical-scroll-proportion="0.34232366" vertical-offset="270" max-vertical-offset="3720">
               <folding />
             </state>
           </provider>
@@ -761,7 +758,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="44" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.65352696" vertical-offset="225" max-vertical-offset="3720">
+        <state line="29" column="1" selection-start="960" selection-end="960" vertical-scroll-proportion="0.34232366" vertical-offset="270" max-vertical-offset="3720">
           <folding />
         </state>
       </provider>
