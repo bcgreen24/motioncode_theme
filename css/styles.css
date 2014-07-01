@@ -212,7 +212,9 @@ ul.nice-menu-main-menu > li.active-trail:hover{
     background-color: #000;
 }
 ul#nice-menu-1 > li{
-    margin-right:16px;
+    margin-right:0px;
+    padding-right:10px;
+    padding-left:10px;
 }
 /*Node Gallery Manage Items Form */
 table#upload-attachments > thead > tr > th{
