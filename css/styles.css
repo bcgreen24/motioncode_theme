@@ -242,3 +242,7 @@ ul.messages__list > li > em.placeholder{
 .sf-vertical, .sf-vertical li {
     width: 175px;
 }
+
+.sf-menu.sf-style-white li li{
+    margin-left:-55px;
+}
