@@ -62,13 +62,7 @@ footer#footer {
 a {
   text-decoration: none;
 }
-div#navigation {
-  background-color: #314638;
-  padding-top: 10px;
-}
-#navigation{
-    height:48px;
-}
+
 .region-sidebar-first {
   padding-top: 10px;
 }
