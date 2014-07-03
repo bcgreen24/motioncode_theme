@@ -51,6 +51,7 @@ div#content {
   min-height: 600px;
   width: 759px;
   background-color: #e7f5ec;
+    margin-top: 35px;
 }
 footer#footer {
   background-color: #314638;
@@ -245,4 +246,8 @@ ul.messages__list > li > em.placeholder{
 
 .sf-menu.sf-style-white li li{
     margin-left:-55px;
+}
+
+.sf-menu.sf-style-white{
+    margin-top: 25px;
 }
