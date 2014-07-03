@@ -241,21 +241,3 @@ ul.messages__list > li > em.placeholder{
     padding-right: 0px;
 }
 
-.sf-vertical, .sf-vertical li {
-    width: 175px;
-}
-
-.sf-menu.sf-style-white li li{
-    margin-left:-55px;
-}
-
-.sf-menu.sf-style-white{
-    margin-top: 25px;
-}
-.sf-menu.sf-style-white a{
-    border:0px;
-}
-.sf-menu ul {
-    width:125px;
-    margin-left:55px;
-}
