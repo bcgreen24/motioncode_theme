@@ -233,3 +233,8 @@ ul.messages__list > li > em.placeholder{
     font-family: sans-serif;
     font-size:12px;
 }
+
+#header, #content, #navigation, .region-sidebar-first, .region-sidebar-second, #footer {
+    padding-left: 0px;
+    padding-right: 0px;
+}
