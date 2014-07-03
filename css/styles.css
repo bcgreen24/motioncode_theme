@@ -238,3 +238,7 @@ ul.messages__list > li > em.placeholder{
     padding-left: 0px;
     padding-right: 0px;
 }
+
+.sf-vertical, .sf-vertical li {
+    width: 175px;
+}
