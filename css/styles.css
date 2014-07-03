@@ -253,3 +253,7 @@ ul.messages__list > li > em.placeholder{
 #superfish-2{
     margin-top: 45px;
 }
+
+.active-trail > a{
+    background-color:#bbb;
+}
