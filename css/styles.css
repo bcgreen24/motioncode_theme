@@ -51,7 +51,7 @@ div#content {
   min-height: 600px;
   width: 759px;
   background-color: #e7f5ec;
-    margin-top: 35px;
+    margin-top: 55px;
     padding-left:10px;
 }
 footer#footer {
@@ -251,5 +251,5 @@ ul.messages__list > li > em.placeholder{
 
 }
 #superfish-2{
-    margin-top: 25px;
+    margin-top: 45px;
 }
