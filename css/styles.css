@@ -163,18 +163,6 @@ a.username {
 body {
   background-color: #225533;
 }
-div#navigation > ul.nice-menu li{
-    background-color: #314638;
-    color: #fff;
-    border: none;
-}
-div#navigation > ul.nice-menu a{
-    color:#fff;
-}
-
-#navigation.block{
-    z-index: 9999;
-}
 
 .block-nice-menus{
 
