@@ -257,3 +257,8 @@ ul.messages__list > li > em.placeholder{
 .active-trail > a{
     background-color:#bbb;
 }
+
+/*Sidebar menu*/
+#block-system-navigation{
+    margin-top:40px;
+}
